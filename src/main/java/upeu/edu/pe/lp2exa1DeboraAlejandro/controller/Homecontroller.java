@@ -22,7 +22,7 @@ public class Homecontroller {
 	
 	@GetMapping("/Bienvenido")
 	public String mensaje() {
-		return "Bienvenidos a Microservicios Sincronos";
+		return "Bienvenidos a Exmen Deby";
 	}
 	
 	 @PostMapping("/authenticate")
